@@ -1,0 +1,8 @@
+I’m @prismOxO1
+ - currently learning python, javascript
+
+
+<!---
+prismOxO1/prismOxO1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
