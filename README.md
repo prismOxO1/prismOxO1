@@ -1,5 +1,2 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prismOxO1&show_rank=false&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismOxO1&repo=ApsaraNightmare&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/prismOxO1/ApsaraNightmare)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prismOxO1&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismOxO1&repo=ApsaraNightmare)](https://github.com/anuraghazra/github-readme-stats)
